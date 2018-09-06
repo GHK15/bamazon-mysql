@@ -29,6 +29,7 @@ npm install
 
 ## Built With
 
+* [Node.js](https://nodejs.org/en/) - run-time environment that executes JavaScript code outside of a browser.
 * [MySQL](https://dev.mysql.com/) - database management system for adding, accessing, and managing content in a database
 * [Inquirer](https://www.npmjs.com/package/inquirer/v/5.0.1) - for prompting questions to the customer and then accordingly providing a response
 
